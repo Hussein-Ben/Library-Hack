@@ -2,6 +2,7 @@
 
 #### works on reserved books too.
 
+![](self-service-machine.jpg)
 
 ## Introduction – a inconvenient truth about automation
 
@@ -23,7 +24,7 @@ The library (3 storey high) this hack was successfully carried out on had hired 
     the receipt.
  5. Leave the library.
  6. At home, peel off the RFID sticker (normally found at the back or
-    front of the book) [insert picture].
+    front of the book) ![](peel-off-RFID-sticker.jpg).
  7. You now get to keep the book(s) you want.
  8. You need the RFID stickers you peeled off, keep them in your
     personal wallet or at the bottom of a rucksack/messenger bag.
